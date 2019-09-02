@@ -158,14 +158,7 @@
 |150| [How to use polyfills in Angular application?](#how-to-use-polyfills-in-angular-application)|
 |151| [What are the ways to trigger change detection in Angular?](#what-are-the-ways-to-trigger-change-detection-in-angular)|
 |152| [What are the differences of various versions of Angular?](#what-are-the-differences-of-various-versions-of-angular)|
-|153| [](#)|
-|154| [](#)|
-|155| [](#)|
-|156| [](#)|
-|157| [](#)|
-|158| [](#)|
-|159| [](#)|
-|160| [](#)|
+
 
 1. ### What is Angular Framework?
 
@@ -1988,14 +1981,5 @@
         • New Angular CLI
         • CLI Prompts capability provide an ability to ask questions to the user before they run. It is like interactive dialog between the           user and the CLI
         • With the improved CLI Prompts capability, it helps developers to make the decision. New ng commands ask users for routing and CSS           styles types(SCSS) and ng add @angular/material asks for themes and gestures or animations.
-        
-153. ### ?
-154. ### ?
-155. ### ?
-156. ### ?
-157. ### ?
-158. ### ?
-159. ### ?
-160. ### ?
 
 
